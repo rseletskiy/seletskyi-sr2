@@ -245,4 +245,6 @@ Bicycle: Giant
 ## Перевірка коду
 
 Основну програму, tests.cpp та окремий мінімальний main.cpp перевірено компілятором GCC 14.2 у Linux з прапорцями -std=c++17 -Wall -Wextra -Wpedantic -Werror. Вони компілюються без попереджень, обидві програми запускаються, tests.cpp виводить All tests passed. Варіант із SHOW_AMBIGUITY дає очікувану помилку неоднозначності. Конфігурація tasks.json містить окремі параметри назв виконуваних файлів для Windows; її запуск у VS Code потрібно виконати локально.
+<img width="1623" height="962" alt="image" src="https://github.com/user-attachments/assets/a3e44cc1-92f6-41d0-8a25-72b9435a46b3" />
+
 
